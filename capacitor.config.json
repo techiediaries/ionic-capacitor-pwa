@@ -1,0 +1,6 @@
+{
+  "appId": "com.techiediaries.jsjargon",
+  "appName": "jsjargon",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
